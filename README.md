@@ -1,4 +1,6 @@
-reddit-app
+The Opinionated Alien
 ==========
 
-A Reddit app with a preference for visual viewing. Built on PhoneGap as a dev challenge.
+### An unofficial app for reddit 
+
+A reddit app with a preference for visual viewing. Built on PhoneGap as a dev challenge.
